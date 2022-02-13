@@ -1,0 +1,13 @@
+.task_group {
+  height : 75px;
+  width: 500px;
+  border: 1px solid black;
+  margin-bottom: 2px;
+  padding : 2px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.task {
+  font-size: 50px;
+}

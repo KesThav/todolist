@@ -1,0 +1,30 @@
+input {
+  height : 75px;
+  width: 500px;
+  margin : 0  2px 0 0;
+  padding : 0;
+  vertical-align: middle;
+  border-width: 0px;
+  border: 1px solid black;
+  font-size: 70px;
+}
+
+.entry{
+  overflow: hidden;
+}
+
+body {
+  background-color: black;
+}
+
+.app{
+  margin-top: 277px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+  font-size:100px;
+}
